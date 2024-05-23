@@ -1,5 +1,5 @@
 <php
 echo "テストだよ";
 echo "てすとではないよ";
-echo "hi";
+echo "hello";
 ?php>
