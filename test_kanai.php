@@ -1,3 +1,3 @@
 <?php
-echo "kanaiだよ"
+echo "kanaiだよ hello"
 ?>
